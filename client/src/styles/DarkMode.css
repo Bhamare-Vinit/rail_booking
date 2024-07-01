@@ -1,6 +1,6 @@
 /* Add background image */
 body {
-    background-image: url('C:\Users\siddharth\Desktop\Railwaymanagmentsystem-main\client\src\pictures\11.jpg');
+    background-image: url('..\pictures\11.jpg');
     background-size: cover; /* Adjust the background size as needed */
     background-repeat: no-repeat; /* Ensure the background image is not repeated */
 }
