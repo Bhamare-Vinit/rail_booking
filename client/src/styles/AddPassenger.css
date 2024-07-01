@@ -78,7 +78,7 @@
   }
   
   .login-container {
-    background-image: url('C:\Users\siddharth\Desktop\Railwaymanagmentsystem-main\client\src\pictures\22.jpg');
+    background-image: url('..\pictures\22.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh; /* Adjust height as needed */
